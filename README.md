@@ -9,7 +9,7 @@ Porting QtPropertyBrowser for PySide6
 
 demo.py file only implemented for QtTreePropertyBrowser.
 
-Test environment:
+Test environment:<br />
 Python: 3.8.10
 PySide6: 6.2.1
 
